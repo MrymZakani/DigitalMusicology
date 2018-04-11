@@ -1,7 +1,5 @@
 ## Research Question
-What is the larger context of your project?
-Why is it interesting (for you)?
-What are possible outcomes? 
+The larger context of the project is Music Psychology. What the project aims to bring evidence about, is whether the performance in driving is affected by the presence of familiar music. A possible outcome would be that as participants hear music with familiar lyrics, they get more distracted, and therefore have a longer reaction time to avoid hazards (as some studies had already shown). Nonetheless, our project would analyze if that implication keeps on being valid while exploring diverse cultures.
 ## Concepts and Data
 What is the concrete focus of your project?
 Which musically relevant concepts do you use or study?
@@ -15,8 +13,6 @@ young-novice drivers. Accident Analysis & Prevention, 59, 382–393.
 * Cummings, R., Kopesell, T.D., Moffat, J.M. and Rivara, F.P. (2001). Drowsiness, counter-measures
 to drowsiness, and the risk of a motor vehicle crash. Injury Prevention, 7, 194–199.
 * Ünal, A.B., Steg, L. and Epstude, K. (2012).  e influence of music on mental e ort and driving performance. Accident Analysis and Prevention, 48, 271–278.
-
-Having into account the methods presented in previous studies on the topic, like (Cummings, Koepsell, Moffat and Rivara, 2001), (Ünal, Steg, and Epstude,2012) and (Brodsky and Slor, 2013), there were selected common socio-demographic variables that seems to alter the way music affects the performance of driving a car. This information is useful, as it can determine the variables that have to be taken into account as control variables, and therefore being introduced as part of the questionnaire in the experiment. 
 
 In Cummings, Koepsell, Moffat, and Rivara (2001), the real scenario is studied (United States):
 As participants in the studies, there were geographically localized drivers in crashes due to deconcentration. The control participants were drivers that the next week, on the same day of the accident, passed for the same road.  
@@ -39,7 +35,8 @@ For taking care of individual differences, each participant completed the Impuls
 The present project supplements the issue of familiar music background impact on driving performance, by giving an intercultural approach. It would be interesting to understand if the impact of familiar music on driving, behaves differently from one culture to another. A sample of citizens in Iran, Colombia and United States is expected to be included.
 
 ## Methods
-Given the revision of the literature, the questionnaire for each participant in the present research is:
+
+Having into account the methods presented in previous studies on the topic, like (Cummings, Koepsell, Moffat and Rivara, 2001), (Ünal, Steg, and Epstude,2012) and (Brodsky and Slor, 2013), there were selected common variables that seems to alter the way music affects the performance of driving a car, and summed up together in the following questionnaire.
 
 ### Prerequisite:
 * Have you a driver license?
@@ -52,6 +49,7 @@ Calculate score(according to frequency and severity of the violation of speeding
 1. PART 1:
 * How old are you?
 * Where are you from?
+* Which is your gender?
 * How many years of experience driving car do you have?
 * Hours since last sleep?
 * * Less than 6
