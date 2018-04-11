@@ -43,6 +43,8 @@ Having into account the methods presented in previous studies on the topic, like
 * Do you have any hearing deficiency?
 
 ### During experiment:
+Users are asked to play a game.
+sample : [Car driving](https://codeincomplete.com/games/racer/v4-final/)
 Calculate score(according to frequency and severity of the violation of speeding, acceleration, braking, turning, RPMs) 
 
 ### Post experiment test:
@@ -55,7 +57,7 @@ Calculate score(according to frequency and severity of the violation of speeding
 * * Less than 6
 * * 6-11
 * * 12-17
-* More or equal to 18
+* * More or equal to 18
 * In the last 2 hours before the experiment, have you drunk caffeine beverages 
 * Are you experienced in-car video games?
 2. PART 2:
