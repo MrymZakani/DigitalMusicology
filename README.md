@@ -65,7 +65,7 @@ Calculate score(according to frequency and severity of the violation of speeding
 * Did you find the music boring?
 
 3. PART 3:
-* [Music background based on Goldsmith’s Music Sophistication Index (Gold-MSI)](https://www.gold.ac.uk/music-mind-brain/gold-msi/).
+* Music background based on [Goldsmith’s Music Sophistication Index (Gold-MSI)](https://www.gold.ac.uk/music-mind-brain/gold-msi/).
 
 4. PART 4:
 * [Sensation Seeking Scale Questionnaire](http://www.emcdda.europa.eu/html.cfm/index86974EN.html ) (if focused on young people).
