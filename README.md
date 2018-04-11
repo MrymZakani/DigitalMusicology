@@ -1,11 +1,6 @@
 ## Research Question
 The larger context of the project is Music Psychology. What the project aims to bring evidence about, is whether the performance in driving is affected by the presence of familiar music. A possible outcome would be that as participants hear music with familiar lyrics, they get more distracted, and therefore have a longer reaction time to avoid hazards (as some studies had already shown). Nonetheless, our project would analyze if that implication keeps on being valid while exploring diverse cultures.
-## Concepts and Data
-What is the concrete focus of your project?
-Which musically relevant concepts do you use or study?
-How can they be operationalized?
-Which datasets can help you answer your research question? 
-Do they already exist or do you need to create them?
+
 ## Literature
 In the Oxford Handbook of Music Psychology, there is a special section dedicated to the decision of listening to music while driving a car. As state of the art, among​ others, are presented: 
 * Brodsky, W. and Slor, Z. (2013). Background music as a risk factor for distraction among
@@ -95,7 +90,7 @@ English: https://youtu.be/e-ORhEE9VVg
 
 Spanish: https://www.youtube.com/watch?v=_I_D_8Z4sJE
 
-Farsi: https://www.radiojavan.com/mp3s/mp3/Mohsen-Chavoshi-Amire-Bi-Gazand
+Persian: https://www.radiojavan.com/mp3s/mp3/Mohsen-Chavoshi-Amire-Bi-Gazand
 
 The raw basics of the game can be found here:
 https://codeincomplete.com/games/racer/v4-final/
@@ -103,11 +98,10 @@ https://codeincomplete.com/games/racer/v4-final/
 ## Preprocessing
 What the group is essentially testing for is if users react to obstacles differently depending on whether they hear music they are familiar with, versus the other levels. For instance, if the user hears lyrics that he or she is not familiar with, is the user more distracted because it is trying to analyze the lyrics and hence has a longer reaction time for obstacles? 
 Given that our variable is the lyrics, we have to assume that the music has no affect on the reaction time. We chose Pop music as musical performance, because it is heard most frequently and hence our cognitive system is already pre-disposed to such melodic pieces – meaning that not much distraction is introduced when playing the song. However, when a popular song arises with lyrics and the user starts singing to the song, then there might be some distraction present. We would like to test if such distraction affects reaction time. Same goes with pop music with foreign lyrics.
+
 ## Basic Statistics
-* How are the features of the data distributed?
-* Can you identify correlations?
-* What can you already infer regarding your research question?
-* What are suitable visualizations for the initial results?
+This test is going to be done over 180 persons (at least 60 persons per locale)
+
 ## Subsequent steps
 The next steps are to start testing the game with users and gather the results of their reaction time as well as the questionnaire. We would then start analyzing the effects of different levels on the reaction time. The questionnaire would also give us additional information on whether there were other variables involved that could have affected the user’s reaction time. In this case, we would have to normalize the research so to reduce “outside noise” that could affect reaction time apart from our variable.
 Alternatively, if the questionnaire shows an external variable that the user paid attention to and hence affected the reaction time, our group might reconsider changing our variable. 
