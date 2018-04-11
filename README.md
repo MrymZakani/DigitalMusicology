@@ -44,7 +44,9 @@ Having into account the methods presented in previous studies on the topic, like
 
 ### During experiment:
 Users are asked to play a game.
+
 sample : [Car driving](https://codeincomplete.com/games/racer/v4-final/)
+
 Calculate score(according to frequency and severity of the violation of speeding, acceleration, braking, turning, RPMs) 
 
 ### Post experiment test:
