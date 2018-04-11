@@ -33,10 +33,6 @@ The present project supplements the issue of familiar music background impact on
 
 Having into account the methods presented in previous studies on the topic, like (Cummings, Koepsell, Moffat and Rivara, 2001), (Ünal, Steg, and Epstude,2012) and (Brodsky and Slor, 2013), there were selected common variables that seems to alter the way music affects the performance of driving a car, and summed up together in the following questionnaire.
 
-### Prerequisite:
-* Have you a driver license?
-* Do you have any hearing deficiency?
-
 ### During experiment:
 Users are asked to play a game.
 
