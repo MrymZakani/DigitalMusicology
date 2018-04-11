@@ -65,8 +65,12 @@ Calculate score(according to frequency and severity of the violation of speeding
 * Did you find the music boring?
 
 3. PART 3:
+* [Music background based on Goldsmith’s Music Sophistication Index (Gold-MSI)](https://www.gold.ac.uk/music-mind-brain/gold-msi/).
+
+4. PART 4:
 * [Sensation Seeking Scale Questionnaire](http://www.emcdda.europa.eu/html.cfm/index86974EN.html ) (if focused on young people).
 * [Personality test](https://discovermyprofile.com/miniIPIP/introduction.html)
+
 
 ## Data Gathering
 The group will gather data by testing reaction time using a self-made game. The game consists of a user driving on the street. The user needs to make a certain reaction (eg. pressing a button) when something or someone gets into the driver’s way. 
