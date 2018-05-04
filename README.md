@@ -99,6 +99,10 @@ https://codeincomplete.com/games/racer/v4-final/
 What the group is essentially testing for is if users react to obstacles differently depending on whether they hear music they are familiar with, versus the other levels. For instance, if the user hears lyrics that he or she is not familiar with, is the user more distracted because it is trying to analyze the lyrics and hence has a longer reaction time for obstacles? 
 Given that our variable is the lyrics, we have to assume that the music has no affect on the reaction time. We chose Pop music as musical performance, because it is heard most frequently and hence our cognitive system is already pre-disposed to such melodic pieces – meaning that not much distraction is introduced when playing the song. However, when a popular song arises with lyrics and the user starts singing to the song, then there might be some distraction present. We would like to test if such distraction affects reaction time. Same goes with pop music with foreign lyrics.
 
+
+# Milestone 3
+copied from (Milestone 3 wiki)[[https://github.com/MrymZakani/DigitalMusicology/wiki/Milestone-3]]
+
 # Designing experiment
 
 ## Choosing pieces of music
