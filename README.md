@@ -101,7 +101,7 @@ Given that our variable is the lyrics, we have to assume that the music has no a
 
 
 # Milestone 3
-copied from (Milestone 3 wiki)[[https://github.com/MrymZakani/DigitalMusicology/wiki/Milestone-3]]
+copied from (Milestone 3 wiki)[https://github.com/MrymZakani/DigitalMusicology/wiki/Milestone-3]
 
 # Designing experiment
 
