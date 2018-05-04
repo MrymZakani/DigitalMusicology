@@ -181,14 +181,14 @@ There is just one instruction for them:
 # Initial Analysis
 
 Number of accidents during pilot:(each line demonstrate one user, x-axis shows experiments, y-axis is number of accidents)
-[[https://github.com/MrymZakani/DigitalMusicology/blob/master/Screen%20Shot%201397-02-13%20at%2001.47.35.png]]
+[](https://github.com/MrymZakani/DigitalMusicology/blob/master/Screen%20Shot%201397-02-13%20at%2001.47.35.png)
 
 
 Number of accidents during main experiment:(each line demonstrate one user, x-axis shows experiments, y-axis is number of accidents)
-[[https://github.com/MrymZakani/DigitalMusicology/blob/master/Screen%20Shot%201397-02-13%20at%2001.39.32.png]]
+[](https://github.com/MrymZakani/DigitalMusicology/blob/master/Screen%20Shot%201397-02-13%20at%2001.39.32.png)
 
 Performance of participants in Russian parts (Foreign language):
-[[https://github.com/MrymZakani/DigitalMusicology/blob/master/Screen%20Shot%201397-02-13%20at%2002.07.20.png]]
+[](https://github.com/MrymZakani/DigitalMusicology/blob/master/Screen%20Shot%201397-02-13%20at%2002.07.20.png)
 
 Number of accidents in different modalities by native tongue:
 ![](https://github.com/ypyelab/hello-world/blob/master/LanguagevsFamiliarity-001.jpg)
